@@ -1,7 +1,6 @@
 package project18;
 
 import project18.game.Hero;
-import project18.game.Item;
 import project18.game.items.Armor;
 import project18.game.items.Glass;
 import project18.game.items.Sword;
